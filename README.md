@@ -28,7 +28,7 @@ If you'd like to contribute to this project, feel free to fork the repository, m
 
 ## Author
 
-- Shagun Tyagi
+- Shagun Tyagi ❤️
 
 Feel free to connect with Shagun on the provided social media links!
 
@@ -38,3 +38,6 @@ Feel free to connect with Shagun on the provided social media links!
 - Google Fonts for the Josefin Sans font.
 
 Enjoy connecting with Shagun Tyagi on the Connectwithme website!
+
+
+<div align="center">Made with ❤️</div>
